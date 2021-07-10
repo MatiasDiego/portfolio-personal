@@ -838,6 +838,11 @@ select {
   margin: 0;
 }
 
+#technologies-row {
+  justify-content: space-between;
+  margin-top: 4em;
+}
+
 /************* PORTFOLIO *************/
 .portfolio .container {
   padding-bottom: 40px;
@@ -1131,7 +1136,7 @@ select {
   flex: 0 0 33.33%;
   max-width: 33.33%;
   text-align: center;
-  margin-bottom: 40px;
+  margin-top: 5em;
 }
 
 .contact .contact-info-item .icon {
