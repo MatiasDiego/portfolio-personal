@@ -675,7 +675,7 @@ select {
   margin: 0;
 }
 
-.experience-list {
+.about .about-content .timeline .experience-list {
   font-size: 16px;
   line-height: 25px;
   color: #504e70;
@@ -683,7 +683,7 @@ select {
   list-style: none;
 }
 
-.experience-list li {
+.about .about-content .timeline .experience-list li {
   margin-bottom: 0.5em;
 }
 
@@ -1241,7 +1241,7 @@ body.dark .contact .contact-form .form-item .form-control,
 body.dark .portfolio .portfolio-item-inner,
 body.dark .service .service-item .service-item-inner,
 body.dark .technologies .technologies-item .technologies-item-inner,
-body.dark .about .about-conten .timeline,
+body.dark .about .about-content .timeline,
 body.dark .about .about-content .personal-info .info-item p,
 body.dark .aside .nav li a {
   border-color: #393939;
